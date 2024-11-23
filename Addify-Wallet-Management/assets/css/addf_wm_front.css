@@ -1,0 +1,155 @@
+.wallet-container {
+    
+    background-color: #7f54b330;
+    border-radius: 8px;
+    padding: 20px;
+}
+
+.wallet-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.wallet-amount {
+    margin-right: 10px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.wallet-amount-value{
+    color: #7f54b3;
+    font-weight: 800;
+    font-size: 30px;
+}
+#wallet_amount{
+    background: white;
+    border-radius: 4px;
+}
+.wallet-input,
+.wallet-button {
+    margin-left: 10px;
+    border-radius: 4px;
+}
+
+
+@media (max-width: 768px) {
+    .wallet-container {
+       text-align: center;
+    }
+
+    .wallet-wrapper {
+        flex-direction: column;
+        
+    }
+    .wallet-amount {
+        margin-right: 0;
+    }
+
+    .wallet-amount-value{
+        margin-bottom: 15px;
+        margin-top: 10px;
+    }
+
+    .wallet-input{
+        margin-left: 0;
+        margin-bottom: 15px;
+    }
+}
+.wallet-transactions-wrapper h4 {
+    padding: 7px;
+    background-color: #f2f2f2;
+    margin: 0;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 10px;
+    /* margin-bottom: 30px; */
+}
+.custom-info{
+    margin-top: 15px;
+    
+}
+.wallet-transfer-link {
+    font-size: 18px;
+    font-weight: bold;
+    position: relative;
+    left: 2%;
+    top: -4px;
+}
+.wm_wallet_transfer{
+    width: 80%;
+    border-radius: 4px;
+}
+.wm_transfer_heading{
+    width: 30%;
+}
+.wm_button_td{
+    width: 40%;
+}
+#wm_wallet_timer_msg{
+    color: red;
+}
+
+.wm_curreny_symbol {
+    color: #7f54b3;
+    font-weight: 800;
+    font-size: 25px;
+    float: right;
+    border-radius: 100%;
+    border: solid 1px #777;
+    padding: 0px 14px;
+}
+.container_transfor_page{
+    margin-bottom: 5%;
+}
+
+#wallet_recharge_amount{
+    display: none;
+}
+.cashback-amount {
+    text-align: center;
+}
+
+#wm_current_user_email{
+    display: none;;
+}
+#wm_otp_otion{
+    display: none;
+}
+#otp_field input{
+border-radius: 4px;
+}
+#otp_field button{
+    border-radius: 4px;
+}
+.wm_wallet_input input{
+    border-radius: 4px;
+}
+ .wm_wallet_input button{
+        border-radius: 4px;
+}
+#wallet_payment_min_amount{
+    display: none;;
+}
+#wallet_payment_max_wallet{
+    display: none;;
+}
+
+.active-status {
+    color: #7ad03a !important;
+    font-weight: bold !important;
+}
+.expired-status {
+    color: #a44 !important;
+    font-weight: bold !important;
+}
+
+
+.action {
+   width: 14%;
+}
+.transition_history{
+    font-size: 20px;
+}
+
+
+

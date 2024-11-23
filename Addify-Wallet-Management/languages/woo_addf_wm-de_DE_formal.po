@@ -1,0 +1,714 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wallet Management For Woocommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-05-27 11:10+0000\n"
+"PO-Revision-Date: 2024-05-27 11:46+0000\n"
+"Last-Translator: Nasir Balti\n"
+"Language-Team: German (Formal)\n"
+"Language: de_DE_formal\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.7; wp-6.4.4\n"
+"X-Domain: woo_addf_wm"
+
+#: includes/addify-wallet-payment.php:309
+msgid " (optional)"
+msgstr "(Optional)"
+
+#: includes/admin/views/addify-wallet-recharge-page.php:42
+#: includes/admin/views/addify-customer-wallet-manual-add.php:49
+#: includes/admin/views/addify-wallet-transactions-details-page.php:69
+#: includes/front/views/addify-wallet-tab-content_view.php:71
+msgid "Action"
+msgstr "Aktion"
+
+#: includes/addify-wallet-payment.php:342
+msgid "Add"
+msgstr "Hinzufügen"
+
+#: includes/front/views/addify-wallet-tab-content.php:39
+msgid "Add to Wallet"
+msgstr "Hinzufügen zu Wallet"
+
+#. Author of the plugin
+msgid "Addify"
+msgstr "Addify"
+
+#: includes/admin/views/addify-wallet-recharge-page.php:31
+#: includes/admin/views/addify-customer-wallet-manual-add.php:38
+#: includes/admin/views/addify-wallet-transactions-details-page.php:53
+#: includes/front/views/addify-wallet-tab-content.php:57
+#: includes/front/views/addify-wallet-tab-content_view.php:53
+msgid "Amount"
+msgstr "Menge"
+
+#: addify-wallet-management.php:683
+msgid "Amount has been successfully transferred."
+msgstr "Menge wurde erfolgreich übertragen."
+
+#: includes/admin/views/addify-wallet-recharge-page.php:36
+#: includes/admin/views/addify-customer-wallet-manual-add.php:43
+msgid "Amount is required."
+msgstr "Menge benötigt wird."
+
+#: includes/addify-wallet-payment.php:469
+msgid "Amount must be greater than zero."
+msgstr "Menge muss größer als null sein."
+
+#: includes/front/views/addify-wallet-tab-transfer.php:57
+msgid "Amount to transfer:"
+msgstr "Überweisungsbetrag:"
+
+#: includes/addify-wallet-payment.php:343
+#: includes/admin/views/addify-wallet-recharge-page.php:66
+#: includes/admin/views/addify-customer-wallet-manual-add.php:74
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: includes/front/addify-wallet-management-front.php:177
+msgid "Cannot add new product now. Either empty cart or process it first."
+msgstr ""
+"Kann nicht hinzufügen neue Produkt. Entweder leer Warenkorb oder verarbeiten "
+"Sie es zuerst."
+
+#: includes/admin/menu-rule-metaboxes/addify-wallet-management-menu-rule-metaboxes.php:312
+msgid "Cart total amount"
+msgstr "Warenkorb Gesamtsumme"
+
+#: includes/admin/views/addify-wallet-emails-page.php:322
+msgid "Cashback"
+msgstr "Cashback"
+
+#: includes/admin/menu-rule-metaboxes/addify-wallet-management-menu-rule-metaboxes.php:117
+#: includes/admin/menu-rule-metaboxes/addify-wallet-management-menu-rule-metaboxes.php:353
+msgid "Cashback Amount"
+msgstr "Cashback Betrag"
+
+#: includes/admin/views/addify-wallet-settings-page.php:66
+msgid "Cashback amount"
+msgstr "Cashback Betrag"
+
+#: includes/admin/menu-rule-metaboxes/addify-wallet-management-menu-rule-metaboxes.php:115
+#: includes/admin/menu-rule-metaboxes/addify-wallet-management-menu-rule-metaboxes.php:306
+msgid "Cashback For"
+msgstr "Cashback Für"
+
+#: includes/admin/menu-rule-metaboxes/addify-wallet-management-menu-rule-metaboxes.php:39
+msgid "Cashback Rules"
+msgstr "Cashback-Regeln"
+
+#: includes/admin/views/addify-wallet-emails-page.php:148
+msgid "Cashback template saved!"
+msgstr "Cashback-Vorlage gespeichert!"
+
+#: includes/admin/menu-rule-metaboxes/addify-wallet-management-menu-rule-metaboxes.php:116
+#: includes/admin/menu-rule-metaboxes/addify-wallet-management-menu-rule-metaboxes.php:321
+msgid "Cashback Type"
+msgstr "Cashback-Typ"
+
+#: addify-wallet-management.php:601
+msgid "Created successfully."
+msgstr "Erfolgreich erstellt."
+
+#: addify-wallet-management.php:346
+msgid "created sucessfully. "
+msgstr "erfolgreich erstellt."
+
+#: includes/admin/views/addify-wallet-recharge-page.php:46
+#: includes/admin/views/addify-customer-wallet-manual-add.php:53
+msgid "Credit"
+msgstr "Credit"
+
+#: includes/admin/menu-rule-metaboxes/addify-wallet-management-menu-rule-metaboxes.php:31
+msgid "Customer Wallet"
+msgstr "Kunden-Wallet"
+
+#: includes/admin/views/addify-wallet-transactions-details-page.php:48
+#: includes/front/views/addify-wallet-tab-content.php:50
+msgid "Customer Wallet Transaction Details"
+msgstr "Kunden-Wallet-Transaktion Details"
+
+#: includes/admin/views/addify-wallet-recharge-page.php:55
+#: includes/front/views/addify-wallet-tab-content.php:59
+msgid "Date"
+msgstr "Datum"
+
+#: includes/admin/views/addify-wallet-recharge-page.php:47
+#: includes/admin/views/addify-customer-wallet-manual-add.php:54
+msgid "Debit"
+msgstr "EC"
+
+#: includes/admin/views/addify-wallet-settings-page.php:62
+msgid "Description"
+msgstr "Beschreibung"
+
+#: includes/front/views/addify-wallet-tab-transfer.php:61
+msgid "e.g. 100"
+msgstr "z.B. 100"
+
+#: includes/front/views/addify-wallet-tab-transfer.php:69
+msgid "e.g. Abc"
+msgstr "z.B. Abc"
+
+#: includes/front/views/addify-wallet-tab-transfer.php:52
+msgid "e.g. example@xyz.com"
+msgstr ""
+
+#: includes/admin/views/addify-wallet-emails-page.php:333
+#: includes/admin/views/addify-wallet-emails-page.php:358
+#: includes/admin/views/addify-wallet-emails-page.php:383
+#: includes/admin/views/addify-wallet-emails-page.php:408
+#: includes/admin/views/addify-wallet-emails-page.php:433
+#: includes/admin/views/addify-wallet-emails-page.php:459
+msgid "Email message"
+msgstr "E-Mail-Nachricht"
+
+#: includes/admin/menu-rule-metaboxes/addify-wallet-management-menu-rule-metaboxes.php:51
+msgid "Email Setting"
+msgstr "E-Mail-Einstellung"
+
+#: includes/admin/views/addify-wallet-emails-page.php:327
+#: includes/admin/views/addify-wallet-emails-page.php:352
+#: includes/admin/views/addify-wallet-emails-page.php:377
+#: includes/admin/views/addify-wallet-emails-page.php:402
+#: includes/admin/views/addify-wallet-emails-page.php:427
+#: includes/admin/views/addify-wallet-emails-page.php:453
+msgid "Email subject"
+msgstr "E-Mail-Betreff"
+
+#: includes/admin/views/addify-wallet-emails-page.php:314
+msgid "Email Templates"
+msgstr "E-Mail-Vorlagen"
+
+#: includes/admin/views/addify-wallet-settings-page.php:52
+msgid "Enable Wallet"
+msgstr "Aktivieren Wallet"
+
+#: includes/admin/views/addify-wallet-settings-page.php:54
+msgid "Enable Wallet Payment"
+msgstr "Aktivieren Wallet"
+
+#: includes/admin/views/addify-wallet-recharge-page.php:35
+msgid "Enter the (Credit/Debit) amount here."
+msgstr "Geben Sie die (Kredit - /Debit -) Betrag hier."
+
+#: includes/admin/menu-rule-metaboxes/addify-wallet-management-menu-rule-metaboxes.php:357
+msgid "Enter the cashback amount."
+msgstr "Geben Sie den cashback Betrag."
+
+#: includes/admin/menu-rule-metaboxes/addify-wallet-management-menu-rule-metaboxes.php:376
+msgid "Enter the maximum amount for cashback."
+msgstr "Geben Sie den maximalen Betrag für cashback."
+
+#: includes/admin/menu-rule-metaboxes/addify-wallet-management-menu-rule-metaboxes.php:366
+msgid "Enter the minimum amount for cashback."
+msgstr "Geben Sie den Mindestbetrag für den cashback."
+
+#: includes/front/views/addify-wallet-tab-transfer.php:77
+msgid "Enter the OTP"
+msgstr "Geben Sie den OTP"
+
+#: includes/addify-wallet-payment.php:320
+msgid "Enter the OTP."
+msgstr "Geben Sie den OTP."
+
+#: includes/admin/views/addify-customer-wallet-manual-add.php:42
+msgid "Enter the transaction amount here."
+msgstr "Geben Sie den Transaktionsbetrag hier."
+
+#: includes/admin/views/addify-customer-wallet-manual-add.php:66
+msgid "Enter the transaction note here."
+msgstr "Geben Sie die Transaktion beachten."
+
+#: includes/front/views/addify-wallet-tab-transfer.php:74
+msgid "Enter your OTP to verify:"
+msgstr "Geben Sie Ihr OTP zu überprüfen:"
+
+#: includes/front/front-ajax/addify-add-to-cart-wallet.php:41
+msgid "Error adding wallet to cart."
+msgstr "Fehler beim hinzufügen wallet to cart."
+
+#: addify-wallet-management.php:583
+msgid "Failed to insert wallet amount."
+msgstr "Fehler beim insert-wallet-Betrag."
+
+#: addify-wallet-management.php:541
+msgid "Failed to insert wallet data."
+msgstr "Fehler beim insert-wallet-Daten."
+
+#: addify-wallet-management.php:774 includes/addify-wallet-payment.php:96
+#: includes/addify-wallet-payment.php:101
+msgid "Failed to send OTP. Please try again."
+msgstr "Fehler beim senden von OTP. Bitte versuchen Sie es erneut."
+
+#: addify-wallet-management.php:565
+msgid "Failed to update wallet amount."
+msgstr "Fehler beim aktualisieren der wallet-Betrag."
+
+#: includes/admin/menu-rule-metaboxes/addify-wallet-management-menu-rule-metaboxes.php:325
+msgid "Fixed"
+msgstr "Feste"
+
+#: includes/admin/views/addify-wallet-emails-page.php:329
+#: includes/admin/views/addify-wallet-emails-page.php:354
+#: includes/admin/views/addify-wallet-emails-page.php:379
+#: includes/admin/views/addify-wallet-emails-page.php:404
+#: includes/admin/views/addify-wallet-emails-page.php:429
+#: includes/admin/views/addify-wallet-emails-page.php:455
+msgid "From email"
+msgstr "Von E-Mail"
+
+#: includes/admin/views/addify-wallet-emails-page.php:331
+#: includes/admin/views/addify-wallet-emails-page.php:356
+#: includes/admin/views/addify-wallet-emails-page.php:381
+#: includes/admin/views/addify-wallet-emails-page.php:406
+#: includes/admin/views/addify-wallet-emails-page.php:431
+#: includes/admin/views/addify-wallet-emails-page.php:457
+msgid "From name"
+msgstr "Name"
+
+#. URI of the plugin
+msgid "https://woocommerce.com/products/wallet-management-for-woocommerce/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://woocommerce.com/vendor/addify/"
+msgstr ""
+
+#: includes/front/views/addify-wallet-tab-content.php:55
+msgid "ID"
+msgstr "ID"
+
+#: includes/admin/views/addify-wallet-settings-page.php:68
+msgid ""
+"If cashback is enabled, customers will receive a cashback amount based on "
+"the cashback rules."
+msgstr ""
+"Wenn cashback aktiviert ist, erhalten Kunden eine cashback-Betrag auf der "
+"Grundlage der cashback-Regeln."
+
+#: includes/admin/menu-rule-metaboxes/addify-wallet-management-menu-rule-metaboxes.php:313
+msgid "Last purchase subtotal amount"
+msgstr "Letzter Kauf Zwischensumme Menge"
+
+#: includes/admin/views/addify-wallet-emails-page.php:124
+msgid "Manual template saved!"
+msgstr "Manuelle Vorlage gespeichert!"
+
+#: includes/admin/views/addify-wallet-emails-page.php:321
+msgid "Manually Admin"
+msgstr "Manuell Admin"
+
+#: includes/admin/menu-rule-metaboxes/addify-wallet-management-menu-rule-metaboxes.php:119
+#: includes/admin/menu-rule-metaboxes/addify-wallet-management-menu-rule-metaboxes.php:371
+msgid "Maximum Amount"
+msgstr "Maximale Höhe"
+
+#: includes/admin/views/addify-wallet-settings-page.php:88
+msgid "Maximum amount transfer from wallet"
+msgstr "Maximale Betrag, den transfer von wallet"
+
+#: includes/admin/views/addify-wallet-settings-page.php:96
+msgid "Maximum pay from wallet amount"
+msgstr "Maximale zahlen von Brieftasche Menge"
+
+#: includes/admin/views/addify-wallet-settings-page.php:80
+msgid "Maximum wallet credit amount"
+msgstr "Maximale wallet-Guthaben"
+
+#: includes/admin/menu-rule-metaboxes/addify-wallet-management-menu-rule-metaboxes.php:118
+#: includes/admin/menu-rule-metaboxes/addify-wallet-management-menu-rule-metaboxes.php:362
+msgid "Minimum Amount"
+msgstr "Mindestbetrag"
+
+#: includes/admin/views/addify-wallet-settings-page.php:84
+msgid "Minimum amount transfer from wallet"
+msgstr "Mindestbetrag transfer von wallet"
+
+#: includes/admin/views/addify-wallet-settings-page.php:92
+msgid "Minimum pay from wallet amount"
+msgstr "Minimum pay aus Geldbörse Menge"
+
+#: includes/admin/views/addify-wallet-settings-page.php:76
+msgid "Minimum wallet credit amount"
+msgstr "Minimal wallet-Guthaben"
+
+#: includes/front/views/addify-wallet-tab-content.php:67
+msgid "No Transition details available yet."
+msgstr "Kein Übergang details vorhanden."
+
+#: addify-wallet-management.php:227 addify-wallet-management.php:356
+#: addify-wallet-management.php:466 addify-wallet-management.php:668
+#: addify-wallet-management.php:699 includes/addify-wallet-payment.php:40
+#: includes/addify-wallet-payment.php:113
+#: includes/addify-wallet-payment.php:150
+#: includes/addify-wallet-payment.php:174
+#: includes/admin/menu-rule-metaboxes/addify-wallet-management-menu-rule-metaboxes.php:404
+#: includes/admin/views/addify-wallet-settings-page.php:10
+#: includes/admin/views/addify-wallet-emails-page.php:10
+#: includes/admin/views/addify-wallet-emails-page.php:35
+#: includes/admin/views/addify-wallet-emails-page.php:59
+#: includes/admin/views/addify-wallet-emails-page.php:83
+#: includes/admin/views/addify-wallet-emails-page.php:107
+#: includes/admin/views/addify-wallet-emails-page.php:131
+#: includes/front/front-ajax/addify-add-to-cart-wallet.php:9
+msgid "Nonce verification failed!"
+msgstr "Nonce-Verifizierung fehlgeschlagen!"
+
+#: addify-wallet-management.php:758
+msgid "Note must be at least 10 characters long."
+msgstr "Beachten muss mindestens 10 Zeichen lang sein."
+
+#: includes/admin/views/addify-wallet-transactions-details-page.php:62
+#: includes/front/views/addify-wallet-tab-content_view.php:63
+msgid "Order ID"
+msgstr "Bestell-ID"
+
+#: includes/admin/views/addify-wallet-emails-page.php:318
+msgid "OTP Payment"
+msgstr "OTP Zahlung"
+
+#: includes/addify-wallet-payment.php:92
+msgid "OTP successfully sent to your email."
+msgstr "OTP erfolgreich an Ihre E-Mail."
+
+#: includes/admin/views/addify-wallet-emails-page.php:27
+msgid "OTP template saved!"
+msgstr "OTP-Vorlage gespeichert!"
+
+#: includes/admin/views/addify-wallet-emails-page.php:317
+msgid "OTP Transfer"
+msgstr "OTP Transfer"
+
+#: includes/admin/views/addify-wallet-settings-page.php:72
+msgid "Otp validation time (minutes)"
+msgstr "Otp validation-Zeit (Minuten)"
+
+#: addify-wallet-management.php:687 includes/addify-wallet-payment.php:131
+#: includes/addify-wallet-payment.php:136
+msgid "OTP verification failed."
+msgstr "OTP-überprüfung ist fehlgeschlagen."
+
+#: includes/addify-wallet-payment.php:127
+msgid "OTP verified successfully."
+msgstr "OTP erfolgreich verifiziert."
+
+#: includes/addify-wallet-payment.php:192
+#: includes/addify-wallet-payment.php:291
+#: includes/admin/views/addify-wallet-settings-page.php:30
+msgid "Pay via Wallet"
+msgstr "Pay via Wallet"
+
+#: includes/addify-wallet-payment.php:292
+#: includes/admin/views/addify-wallet-settings-page.php:31
+msgid "Pay with amount in your wallet."
+msgstr "Zahlen mit dem Betrag in Ihrer Brieftasche."
+
+#: includes/admin/views/addify-wallet-transactions-details-page.php:87
+#: includes/front/views/addify-wallet-tab-content_view.php:83
+msgid "Payer"
+msgstr "Zahler"
+
+#: includes/addify-wallet-payment.php:183
+msgid "Payment added successfully."
+msgstr "Zahlung erfolgreich Hinzugefügt."
+
+#: includes/addify-wallet-payment.php:159
+msgid "Payment removed successfully."
+msgstr "Zahlung erfolgreich entfernt."
+
+#: includes/admin/views/addify-wallet-emails-page.php:100
+msgid "Payment template saved!"
+msgstr "Zahlung Vorlage gespeichert!"
+
+#: includes/admin/menu-rule-metaboxes/addify-wallet-management-menu-rule-metaboxes.php:326
+msgid "Percentage"
+msgstr "Prozentsatz"
+
+#: includes/admin/menu-rule-metaboxes/addify-wallet-management-menu-rule-metaboxes.php:314
+msgid "Previously purchase total amount"
+msgstr "Zuvor kaufen Gesamtbetrag"
+
+#: includes/admin/menu-rule-metaboxes/addify-wallet-management-menu-rule-metaboxes.php:311
+msgid "Purchase product"
+msgstr "Kauf von Produkten"
+
+#: includes/admin/views/addify-wallet-transactions-details-page.php:81
+msgid "Receiver"
+msgstr "Empfänger"
+
+#: addify-wallet-management.php:723
+msgid "Receiver does not exist."
+msgstr "Empfänger existiert nicht."
+
+#: includes/front/views/addify-wallet-tab-transfer.php:47
+msgid "Receiver’s email:"
+msgstr "Empfänger E-Mail:"
+
+#: includes/admin/views/addify-wallet-emails-page.php:319
+msgid "Recharge"
+msgstr "Aufladen"
+
+#: includes/admin/views/addify-wallet-emails-page.php:52
+msgid "Recharge template saved!"
+msgstr "Aufladen Vorlage gespeichert!"
+
+#: includes/admin/menu-rule-metaboxes/addify-wallet-management-menu-rule-metaboxes.php:310
+msgid "Recharge wallet"
+msgstr "Aufladen Brieftasche"
+
+#: includes/front/views/addify-wallet-tab-content_view.php:79
+msgid "Reciever"
+msgstr "Empfänger"
+
+#: includes/front/views/addify-wallet-tab-content.php:56
+msgid "Reference"
+msgstr "Referenz"
+
+#: addify-wallet-management.php:243 addify-wallet-management.php:482
+msgid "Required fields are missing."
+msgstr "Erforderliche Felder fehlen."
+
+#: includes/addify-wallet-payment.php:325
+#: includes/front/views/addify-wallet-tab-transfer.php:84
+msgid "Resend"
+msgstr "Erneut senden"
+
+#: includes/admin/views/addify-wallet-settings-page.php:101
+msgid "Save settings"
+msgstr "Einstellungen speichern"
+
+#: includes/admin/views/addify-wallet-emails-page.php:345
+#: includes/admin/views/addify-wallet-emails-page.php:370
+#: includes/admin/views/addify-wallet-emails-page.php:395
+#: includes/admin/views/addify-wallet-emails-page.php:420
+#: includes/admin/views/addify-wallet-emails-page.php:445
+#: includes/admin/views/addify-wallet-emails-page.php:471
+msgid "Save Template"
+msgstr "Vorlage Speichern"
+
+#: includes/admin/views/addify-wallet-recharge-page.php:49
+#: includes/admin/views/addify-customer-wallet-manual-add.php:56
+msgid "Select the action (Credit/Debit) here."
+msgstr "Wählen Sie die Aktion (Credit/Debit) hier."
+
+#: includes/admin/menu-rule-metaboxes/addify-wallet-management-menu-rule-metaboxes.php:316
+msgid "Select the condition for cashback."
+msgstr "Wählen Sie die Bedingung für cashback."
+
+#: includes/admin/menu-rule-metaboxes/addify-wallet-management-menu-rule-metaboxes.php:348
+msgid "Select the user role for cashback."
+msgstr "Wählen Sie die Benutzerrolle für cashback."
+
+#: includes/addify-wallet-payment.php:477
+msgid "The entered amount exceeds your wallet balance."
+msgstr "Der eingegebene Betrag überschreitet Ihre wallet-Guthaben."
+
+#: includes/addify-wallet-payment.php:493
+msgid "The maximum amount you can pay from your wallet is "
+msgstr ""
+"Der Höchstbetrag, den Sie aus Ihrem Portemonnaie bezahlen können, beträgt"
+
+#: addify-wallet-management.php:751
+msgid "The maximum amount you can transfer from your wallet is "
+msgstr "Der Höchstbetrag, den Sie von Ihrem Wallet überweisen können, beträgt"
+
+#: includes/addify-wallet-payment.php:485
+msgid "The minimum amount you can pay from your wallet is "
+msgstr ""
+"Der Mindestbetrag, den Sie aus Ihrem Portemonnaie bezahlen können, beträgt"
+
+#: addify-wallet-management.php:744
+msgid "The minimum amount you can transfer from your wallet is "
+msgstr "Der Mindestbetrag, den Sie von Ihrem Wallet überweisen können, beträgt"
+
+#: includes/addify-wallet-payment.php:164
+msgid "There are issue removing payment. Please try again."
+msgstr ""
+"Gibt es Problem der Beseitigung der Zahlung. Bitte versuchen Sie es erneut."
+
+#: includes/addify-wallet-payment.php:187
+msgid "There was an issue processing your payment. Please try again."
+msgstr ""
+"Es gab ein Problem bei der Bearbeitung Ihrer Zahlung. Bitte versuchen Sie es "
+"erneut."
+
+#: includes/admin/views/addify-wallet-settings-page.php:58
+msgid "Title"
+msgstr "Titel"
+
+#: includes/admin/views/addify-customer-wallet-manual-add.php:62
+#: includes/admin/views/addify-wallet-transactions-details-page.php:99
+#: includes/front/views/addify-wallet-tab-content_view.php:91
+msgid "Transaction Note"
+msgstr "Transaktion Hinweis"
+
+#: includes/front/views/addify-wallet-tab-transfer.php:66
+msgid "Transaction note:"
+msgstr "Transaktion Hinweis:"
+
+#: includes/admin/views/addify-wallet-transactions-details-page.php:93
+#: includes/front/views/addify-wallet-tab-content_view.php:87
+msgid "Transaction On"
+msgstr "Transaktion"
+
+#: includes/admin/menu-rule-metaboxes/addify-wallet-management-menu-rule-metaboxes.php:35
+msgid "Transactions"
+msgstr "Transaktionen"
+
+#: includes/admin/views/addify-wallet-emails-page.php:320
+#: includes/front/views/addify-wallet-tab-transfer.php:82
+msgid "Transfer"
+msgstr "Transfer"
+
+#: includes/admin/views/addify-wallet-emails-page.php:76
+msgid "Transfer template saved!"
+msgstr "Transfer Vorlage gespeichert!"
+
+#: includes/admin/views/addify-wallet-transactions-details-page.php:75
+#: includes/front/views/addify-wallet-tab-content.php:58
+#: includes/front/views/addify-wallet-tab-content_view.php:75
+msgid "Type"
+msgstr "Typ"
+
+#: includes/admin/views/addify-wallet-recharge-page.php:65
+#: includes/admin/views/addify-customer-wallet-manual-add.php:73
+msgid "Update Wallet"
+msgstr "Update Wallet"
+
+#: addify-wallet-management.php:592
+msgid "User not found for email."
+msgstr "User nicht gefunden für E-Mail."
+
+#: addify-wallet-management.php:340
+msgid "User not found for this email. "
+msgstr "Für diese E-Mail wurde kein Benutzer gefunden."
+
+#: includes/admin/menu-rule-metaboxes/addify-wallet-management-menu-rule-metaboxes.php:120
+#: includes/admin/menu-rule-metaboxes/addify-wallet-management-menu-rule-metaboxes.php:333
+msgid "User Role"
+msgstr "Benutzer-Rolle"
+
+#: includes/admin/views/addify-customer-wallet-manual-add.php:27
+msgid "Username"
+msgstr "Benutzername"
+
+#: addify-wallet-management.php:730 includes/addify-wallet-payment.php:461
+msgid "Valid amount is required."
+msgstr "Gültige Menge benötigt wird."
+
+#: addify-wallet-management.php:716
+msgid "Valid email is required."
+msgstr "Gültige E-Mail erforderlich ist."
+
+#: includes/front/views/addify-wallet-tab-transfer.php:83
+msgid "Verify & Transfer"
+msgstr "Prüfen & Übertragen"
+
+#: includes/addify-wallet-payment.php:324
+msgid "Verify OTP"
+msgstr "Überprüfen Sie, OTP"
+
+#: includes/admin/views/addify-wallet-recharge-page.php:21
+msgid "Wallet amount"
+msgstr "Brieftasche Menge"
+
+#: includes/front/views/addify-wallet-tab-transfer.php:31
+#: includes/front/views/addify-wallet-tab-content.php:26
+msgid "Wallet Amount:"
+msgstr "Brieftasche Menge:"
+
+#: includes/front/front-ajax/addify-add-to-cart-wallet.php:35
+msgid "Wallet has been added to your cart."
+msgstr "Wallet wurde zu Ihrem Warenkorb Hinzugefügt."
+
+#. Name of the plugin
+msgid "Wallet Management For Woocommerce"
+msgstr "Wallet Management Für Woocommerce"
+
+#. Description of the plugin
+msgid "Wallet management for woocommerce pulgin."
+msgstr "Wallet management für woocommerce pulgin."
+
+#: addify-wallet-management.php:846
+msgid ""
+"Wallet managmenet for WooCommerce plugin is inactive. WooCommerce plugin "
+"must be active in order to activate it."
+msgstr ""
+"Wallet managmenet für WooCommerce plugin inaktiv ist. WooCommerce plugin "
+"aktiviert sein muss um es zu aktivieren."
+
+#: includes/admin/views/addify-customer-wallet-manual-add.php:21
+msgid "Wallet Manual Transaction"
+msgstr "Brieftasche Manuelle Transaktion"
+
+#: includes/admin/menu-rule-metaboxes/addify-wallet-management-menu-rule-metaboxes.php:43
+#: includes/admin/views/addify-wallet-recharge-page.php:16
+msgid "Wallet Recharge"
+msgstr "Wallet Aufladen"
+
+#: includes/admin/menu-rule-metaboxes/addify-wallet-management-menu-rule-metaboxes.php:47
+msgid "Wallet Setting"
+msgstr "Wallet-Einstellung"
+
+#: includes/admin/views/addify-wallet-settings-page.php:47
+msgid "Wallet settings"
+msgstr "Brieftaschen-Einstellungen"
+
+#: includes/admin/views/addify-wallet-settings-page.php:25
+msgid "Wallet settings saved!"
+msgstr "Brieftaschen-Einstellungen gespeichert!"
+
+#: includes/front/views/addify-wallet-tab-content_view.php:48
+msgid "Wallet Transaction Details"
+msgstr "Wallet-Transaktion Details"
+
+#: includes/front/views/addify-wallet-tab-content.php:46
+msgid "Wallet Transactions"
+msgstr "Wallet-Transaktionen"
+
+#: includes/front/views/addify-wallet-tab-content.php:30
+msgid "Wallet Transfer"
+msgstr "Wallet Transfer"
+
+#: addify-wallet-management.php:391 addify-wallet-management.php:407
+msgid "Wallet updated successfully!"
+msgstr "Brieftasche erfolgreich aktualisiert!"
+
+#: includes/admin/menu-rule-metaboxes/addify-wallet-management-menu-rule-metaboxes.php:328
+msgid ""
+"You can set cashback type either fixed or percentage based. Cashback will be "
+"calculated based on this selection."
+msgstr ""
+"Sie können cashback geben Sie entweder Feste oder prozentuale. Cashback wird "
+"berechnet werden basierend auf dieser Auswahl."
+
+#: includes/addify-wallet-payment.php:501
+msgid "You cannot pay an amount greater/equal than the order subtotal."
+msgstr ""
+"Sie kann nicht bezahlen, ein Betrag größer/gleich ist als die, um die "
+"Zwischensumme."
+
+#: addify-wallet-management.php:737
+msgid "Your are not enough amount to transfor."
+msgstr "Sie sind nicht genug Menge zu transfor."
+
+#: includes/addify-wallet-payment.php:333
+msgid ""
+"Your six digit OTP for wallet transaction has been successfully sent to the "
+"email:"
+msgstr ""
+"Ihre sechs-stellige OTP für wallet-Transaktion wurde erfolgreich gesendet an "
+"die E-Mail:"
+
+#: addify-wallet-management.php:770
+msgid ""
+"Your six-digit OTP for wallet transaction has been successfully sent to the "
+"email:"
+msgstr ""
+"Ihre sechs-stellige OTP für wallet-Transaktion wurde erfolgreich gesendet an "
+"die E-Mail:"

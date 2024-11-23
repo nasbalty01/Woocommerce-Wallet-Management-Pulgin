@@ -1,0 +1,127 @@
+.dataTables_wrapper .dataTables_length select {
+    background-image: none;
+    /* -webkit-appearance: auto; */
+}
+
+.dataTables_wrapper .dataTables_filter input {
+    background-color: white !important;
+    margin-bottom: 8px;
+}
+
+#user-table-custom_wrapper{
+    margin-top: 15px;
+    margin-bottom: 15px;;
+}
+.dataTables_wrapper .dataTables_paginate .paginate_button {
+    margin-top: 8px;
+}
+.wallet-transaction-view th{
+    font-weight: bold;
+}
+.wallet-transaction-view{
+    margin-top: 10px;
+    padding:10px;
+}
+.user_name{
+    font-weight: bold;
+}
+.select2{
+    width: 40% !important;
+}
+.cashback_for{
+     width: 40% !important;
+}
+.cashback_type{
+    width: 40% !important;
+}
+.cashback_amount{
+    width: 40% !important;
+}
+
+.cart_total_from{
+    width: 40% !important;
+}
+.cart_total_to{
+    width: 40% !important;
+}
+.products_message{
+    width: 40% !important;
+}
+.cart_message{
+    width: 40% !important;
+}
+.min_amount{
+    width: 40% !important;
+}
+.max_amount{
+    width: 40% !important;
+}
+.min_max_both{
+    display: none;
+}
+.input_email{
+    width: 80%;
+}
+.email_messages{
+    width: 80%;
+}
+.label_emails{
+    font-weight: bold;
+    font-size: 15px;
+}
+#cashback_class{
+    display: none;
+}
+#recharge_class{
+    display: none;
+}
+#transfer_class{
+    display: none;
+}
+#byadmin_class{
+    display: none;
+}
+#payment_class{
+    display: none;
+}
+
+.form-table th {
+    text-align: left;
+    width: 300px;
+}
+.form-table td {
+    text-align: left;
+}
+#wallet_payment_description{
+    width: 50%;
+}
+#wallet_payment_otp_message{
+    width: 50%;
+}
+#amount_message{
+    display:none; 
+    color:red;
+}
+#id{
+    width: 5%;
+}
+#actions{
+    width: 20%;
+}
+
+.cart_mess{
+display: none;
+}
+.min_max{
+    display: none;;
+}
+.active-status {
+    color: #7ad03a !important;
+    font-weight: bold !important;
+}
+.expired-status {
+    color: #a44 !important;
+    font-weight: bold !important;
+}
+
+

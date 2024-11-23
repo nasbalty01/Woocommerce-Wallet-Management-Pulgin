@@ -1,0 +1,72 @@
+
+<wpml-config>
+  <custom-types>
+    <custom-type translate="1">cashback_rule</custom-type>
+  </custom-types>
+  <taxonomies>
+    <taxonomy translate="1">product_type</taxonomy>
+    <taxonomy translate="1">product_cat</taxonomy>
+  </taxonomies>
+  <custom-fields>
+    <custom-field action="copy-once">wallet_user_id</custom-field>
+    <custom-field action="copy-once">cashback_for</custom-field>
+    <custom-field action="copy-once">cashback_type</custom-field>
+    <custom-field action="copy-once">user_product_select</custom-field>
+    <custom-field action="copy-once">selected_categories</custom-field>
+    <custom-field action="copy-once">cashback_amount</custom-field>
+    <custom-field action="copy-once">cart_total_from</custom-field>
+    <custom-field action="copy-once">cart_total_to</custom-field>
+    <custom-field action="copy-once">rule_start_date</custom-field>
+    <custom-field action="copy-once">rule_end_date</custom-field>
+    <custom-field action="copy-once">products_message</custom-field>
+    <custom-field action="copy-once">cart_message</custom-field>
+  </custom-fields>
+  <admin-texts>
+    <key name="email_subject"/>
+    <key name="email_subject_byadmin"/>
+    <key name="email_subject_cashback"/>
+    <key name="email_subject_payment"/>
+    <key name="email_subject_recharge"/>
+    <key name="email_subject_transfer"/>
+    <key name="email_template"/>
+    <key name="email_template_byadmin"/>
+    <key name="email_template_cashback"/>
+    <key name="email_template_otp_subject"/>
+    <key name="email_template_otp_template"/>
+    <key name="email_template_payment"/>
+    <key name="email_template_products_subject"/>
+    <key name="email_template_products_template"/>
+    <key name="email_template_recharge"/>
+    <key name="email_template_subject_otp"/>
+    <key name="email_template_subject_products"/>
+    <key name="email_template_template_otp"/>
+    <key name="email_template_template_products"/>
+    <key name="email_template_transfer"/>
+    <key name="expiry_date"/>
+    <key name="from_email"/>
+    <key name="from_email_byadmin"/>
+    <key name="from_email_cashback"/>
+    <key name="from_email_payment"/>
+    <key name="from_email_recharge"/>
+    <key name="from_email_transfer"/>
+    <key name="from_name"/>
+    <key name="from_name_byadmin"/>
+    <key name="from_name_cashback"/>
+    <key name="from_name_payment"/>
+    <key name="from_name_recharge"/>
+    <key name="from_name_transfer"/>
+    <key name="wallet_cashback_expiration_date"/>
+    <key name="wallet_payment_cashback"/>
+    <key name="wallet_payment_description"/>
+    <key name="wallet_payment_enabled"/>
+    <key name="wallet_payment_instructions"/>
+    <key name="wallet_payment_min_pay"/>
+    <key name="wallet_payment_min_transfer"/>
+    <key name="wallet_payment_otp_message"/>
+    <key name="wallet_payment_otp_validation_time"/>
+    <key name="wallet_payment_title"/>
+    <key name="wallet_recharge_expiration_date"/>
+    <key name="wc_admin_show_legacy_coupon_menu"/>
+    <key name="wc_blocks_db_schema_version"/>
+  </admin-texts>
+</wpml-config>

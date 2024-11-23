@@ -1,0 +1,65 @@
+.wm_wallet_input{
+    display: none;
+}
+.wm_wallet_spin{
+    display: none;
+}
+#otp_field{
+    display: none;
+}
+#resend_otp_button{
+display: none;
+}
+.wm_wallet_timmer{
+    color: red;
+}
+
+
+
+#otp_field .form-row-wide {
+    display: flex;
+    align-items: center;
+    width: 100%; /* Ensure the container takes full width */
+}
+
+#otp_field input#otp {
+    flex: 1; /* Allow the input to grow and shrink as needed */
+    margin-right: 10px; /* Add space between the input and the first button */
+}
+
+#otp_field button#verify_otp_button,
+#otp_field button#resend_otp_button {
+    flex: 0 0 auto; /* Prevent buttons from growing */
+    margin-right: 10px; /* Add space between the buttons */
+}
+
+/* Remove the margin-right from the last button to avoid extra space */
+#otp_field button#resend_otp_button {
+    margin-right: 0;
+}
+
+
+/* Flexbox settings for the input and buttons */
+.wm_wallet_input .form-row.form-row-wide {
+    display: flex;
+    align-items: center;
+    width: 100%; /* Ensure the container takes full width */
+}
+
+.wm_wallet_input input#wallet_payment_amount {
+    flex: 1; /* Allow the input to grow and shrink as needed */
+    margin-right: 10px; /* Add space between the input and the first button */
+}
+
+.wm_wallet_input button#wallet_pay_add,
+.wm_wallet_input button#wallet_pay_cancel {
+    flex: 0 0 auto; /* Prevent buttons from growing */
+    margin-right: 10px; /* Add space between the buttons */
+}
+
+/* Remove the margin-right from the last button to avoid extra space */
+.wm_wallet_input button#wallet_pay_cancel {
+    margin-right: 0;
+}
+
+
